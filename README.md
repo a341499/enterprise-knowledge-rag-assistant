@@ -6,6 +6,14 @@ A retrieval-augmented generation assistant for answering questions from enterpri
 
 
 
+\## Architecture Diagram
+
+
+
+!\[Enterprise Knowledge RAG Architecture](architecture/enterprise\_knowledge\_rag\_architecture.png)
+
+
+
 \## Problem
 
 

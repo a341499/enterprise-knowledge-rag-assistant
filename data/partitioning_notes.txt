@@ -1,0 +1,7 @@
+Partition maintenance operations include split partition, merge partition,
+move partition, and exchange partition.
+
+Global indexes may become unusable during certain maintenance operations
+unless update global indexes is specified.
+
+Partition pruning improves query performance by reducing accessed partitions.

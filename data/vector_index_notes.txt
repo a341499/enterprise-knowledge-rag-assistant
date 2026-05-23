@@ -1,0 +1,6 @@
+Vector similarity search retrieves nearest embeddings based on semantic proximity.
+
+IVF indexes organize vectors into clusters.
+HNSW indexes create graph-based proximity structures.
+
+Approximate nearest neighbor search improves retrieval latency.

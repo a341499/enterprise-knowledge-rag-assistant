@@ -1,4 +1,3 @@
-```md
 # Enterprise Knowledge RAG Assistant
 
 A retrieval-augmented generation assistant for answering questions from enterprise engineering knowledge documents.

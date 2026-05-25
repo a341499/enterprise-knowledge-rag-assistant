@@ -47,4 +47,3 @@ This project demonstrates practical AI infrastructure skills:
 - Retrieval quality evaluation
 - Enterprise knowledge assistant architecture
 - LLM application engineering
-```

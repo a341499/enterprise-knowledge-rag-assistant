@@ -1,4 +1,4 @@
-\# Enterprise Knowledge RAG Assistant
+# Enterprise Knowledge RAG Assistant
 
 
 
@@ -14,7 +14,7 @@ A retrieval-augmented generation assistant for answering questions from enterpri
 
 
 
-\## Problem
+## Problem
 
 
 
@@ -22,7 +22,7 @@ Enterprise engineering teams often depend on scattered documents, release notes,
 
 
 
-\## Solution
+## Solution
 
 
 
